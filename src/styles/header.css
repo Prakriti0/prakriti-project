@@ -1,0 +1,17 @@
+.header{
+    background-color:yellow;
+     padding:50px;
+   border:2px solid brown;;
+}
+table {
+    width:100%;
+    border: 4px;
+}
+th, td{
+    text-align:text;
+    padding: 8px;
+}
+th{
+    background-color:blueviolet;
+    color:white;
+}

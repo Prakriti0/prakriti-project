@@ -1,0 +1,13 @@
+.Footer p{
+    background-color: blue;
+    text-align: center;
+    border: 10px;
+    clear:both;
+	color:white;
+	padding:20px;
+
+}
+.Footer p:hover{
+    background-color:blue;
+    color:aliceblue;
+}	
